@@ -1,12 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+Tᴏ+Horror+Filter+Bot+Repo+!!!!!;Created+By+Horror+Movies+Tamil+!!!!!;Made+With+Horror+Love+🔥+!!!!)</p>
 <p align="center">
-  <img src="https://te.legra.ph/file/12d811d8bd6d19299f369.jpg" alt="Awesome Filter Logo">
+  <img src="https://telegra.ph/file/dd7838f3fc778e5977798.jpg" alt="Awesome Filter Logo">
   </p>
   <h1 align="center">
     <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
     </h1>
 
-# 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ TᴀᴍɪʟᴀɴBᴏᴛsZ
+# 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ Horror Movie's Tamil 
 
 🌟 <b>Fᴏʀᴋ & Sᴛᴀʀ Nᴏᴡ</b> 💥
 
@@ -74,7 +74,7 @@ Cᴀɴ'ᴛ ᴜɴᴅᴇʀsᴛᴀɴᴅ ﹖ Sᴇᴇ SᴄʀᴇᴇɴSʜᴏᴛ 👇
 ## Dᴇᴘᴏʟʏ
 Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 
-<a href=https://github.com/TamilanBotsZ/PremiumFilter/blob/Tamilans-Working-Branch/Instruction.pyyy>Follow This Instruction Before Depolying Heroku / Koyeb</a>
+<a href=https://github.com/Gubera24/Horror-Filter-Bot/blob/Tamilans-Working-Branch/Instruction.pyyy>Follow This Instruction Before Depolying Heroku / Koyeb</a>
 
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
 <p>
