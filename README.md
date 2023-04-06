@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Horror+Filter+Bot+Repo+!!!!!;Created+By+Horror Movies+Tamil+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Tᴀᴍɪʟᴀɴ+Lᴏᴠᴇ+♥️+!!!!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+Tᴏ+Horror+Filter+Bot+Repo+!!!!!;Created+By+Horror+Movies+Tamil+!!!!!;Made+With+Horror+Love+🔥+!!!!)</p>
 <p align="center">
   <img src="https://te.legra.ph/file/12d811d8bd6d19299f369.jpg" alt="Awesome Filter Logo">
   </p>
